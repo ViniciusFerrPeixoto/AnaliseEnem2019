@@ -1,4 +1,5 @@
 #**Introdução**
+
 Este estudo tem a finalidade de praticar a análise de uma grande quantidade de dados usando a biblioteca pandas e maplotlib.
 Com o intuito de responder as seguintes perguntas:
 
